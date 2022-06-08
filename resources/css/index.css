@@ -1,0 +1,35 @@
+body {
+    font-family: 'TimesNewRoman','Times New Roman',Times,Baskerville,Georgia,serif;
+    font-size: 24px;
+    margin: 1%;
+}
+
+.flood {
+    color: blue;
+    font-size: 40px;
+}
+
+.hongsue {
+    font-size: 60px;
+    color: blue;
+}
+
+.title {
+    font-size: 32px;
+}
+
+.information {
+    font-size: 18px;
+    color: #5e5a5a;
+}
+
+.name {
+    font-size: 32px;
+}
+
+.fix {
+    position: fixed;
+    bottom: 1%;
+    right: 1%;
+    width: 20%;
+}
